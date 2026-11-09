@@ -1,0 +1,10 @@
+{
+  "models": {
+    "traffic_sign_detector": {
+      "path": "models/traffic-sign-yolo.pt"
+    },
+    "traffic_sign_classifier": {
+      "path": "models/traffic-sign-classifier.pt"
+    }
+  }
+}
